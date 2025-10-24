@@ -14,6 +14,7 @@ npm install
 npm install express mongoose cors dotenv joi bcrypt express-validator helmet json2csv jsonwebtoken swagger-jsdoc morgan swagger-ui-express yamljs
 ```
 ## .env
+```
 PORT=5000
 MONGO_URI=<Your MongoDB URI>
 JWT_ACCESS_SECRET=<RandomString>
@@ -23,9 +24,11 @@ REFRESH_TOKEN_EXPIRES_IN=7d
 SALT_ROUNDS=10
 NODE_ENV=production
 BASE_URL=http://localhost:5000
-
+```
 ## Swagger ui
+```
 http://localhost:5000/api-docs
 https://hrm-nia6.onrender.com/api-docs
+```
 
 
