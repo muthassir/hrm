@@ -26,5 +26,6 @@ BASE_URL=http://localhost:5000
 
 ## Swagger ui
 http://localhost:5000/api-docs
+https://hrm-nia6.onrender.com/api-docs
 
 
